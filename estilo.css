@@ -1,0 +1,16 @@
+@charset "utf-8"; 
+
+h1 {
+
+    font-family: "Lucida" Grande, sans-serif; 
+    text-align: center;
+    color: #8a5a44;
+    background-color: #edc4b3;
+    
+}
+
+body {
+
+    background-color: #f3d199;
+
+}
